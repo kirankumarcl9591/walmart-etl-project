@@ -1,0 +1,10 @@
+{
+  "input_path": "A_RAW_DATA",
+  "output_path": "B_DELTA_DATA",
+  "files": [
+    "Features data set.csv",
+    "sales data-set.csv",
+    "stores data-set.csv"
+  ],
+  "spark_app_name": "WalmartRawIngestion"
+}
